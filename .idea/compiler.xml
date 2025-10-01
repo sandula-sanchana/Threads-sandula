@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="extend_thread_class" />
-        <module name="introduction" />
         <module name="m3_runnable_ex" />
+        <module name="module3-lamda" />
+        <module name="introduction" />
       </profile>
     </annotationProcessing>
   </component>
