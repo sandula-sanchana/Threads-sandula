@@ -8,8 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="extend_thread_class" />
         <module name="m4-join_isalive" />
-        <module name="thread_piority" />
         <module name="m3_runnable_ex" />
+        <module name="syncronized" />
+        <module name="thread_piority" />
         <module name="module3-lamda" />
         <module name="introduction" />
       </profile>
