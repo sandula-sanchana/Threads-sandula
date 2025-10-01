@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="extend_thread_class" />
         <module name="introduction" />
+        <module name="m3_runnable_ex" />
       </profile>
     </annotationProcessing>
   </component>
