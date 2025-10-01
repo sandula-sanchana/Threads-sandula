@@ -30,7 +30,9 @@ public class Main {
         int num=0;
 
         public synchronized void  Increment(){
-            num++;
+            num++;//while one thread accessing a method it locked for other threads by synchronized
+            //deadlock-infinite loop
+            //race condition-unpredictable result// use synchronized to avoid this
         }
 //        public synchronized void  Decrement(){
 //            num--;

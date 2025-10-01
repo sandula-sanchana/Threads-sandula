@@ -9,6 +9,7 @@
         <module name="extend_thread_class" />
         <module name="m4-join_isalive" />
         <module name="m3_runnable_ex" />
+        <module name="inter_thread_com" />
         <module name="syncronized" />
         <module name="thread_piority" />
         <module name="module3-lamda" />
