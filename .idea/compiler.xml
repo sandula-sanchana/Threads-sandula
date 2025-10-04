@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="extend_thread_class" />
+        <module name="thread_pooling" />
         <module name="m4-join_isalive" />
         <module name="m3_runnable_ex" />
         <module name="inter_thread_com" />
         <module name="syncronized" />
+        <module name="consumer_producer_retry" />
         <module name="thread_piority" />
         <module name="module3-lamda" />
         <module name="introduction" />

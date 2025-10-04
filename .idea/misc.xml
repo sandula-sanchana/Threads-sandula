@@ -12,6 +12,8 @@
         <option value="$PROJECT_DIR$/thread_piority/pom.xml" />
         <option value="$PROJECT_DIR$/syncronized/pom.xml" />
         <option value="$PROJECT_DIR$/inter_thread_com/pom.xml" />
+        <option value="$PROJECT_DIR$/thread_pooling/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer_producer_retry/pom.xml" />
       </list>
     </option>
   </component>
